@@ -65,7 +65,8 @@
     "@reason-native/rely": "^3.2.1"
   },
   "resolutions": {
-    "@opam/conf-pkg-config": "1.2"
+    "@opam/conf-pkg-config": "1.2",
+    "esy-harfbuzz": "github:Et7f3/esy-harfbuzz#4309597b403374fe65868e8971c114555c96c6e4"
   },
   "devDependencies": {
     "ocaml": "~4.11",
